@@ -1,0 +1,6 @@
+framework module Pods_Wholesome_Chat {
+  umbrella header "Pods-Wholesome Chat-umbrella.h"
+
+  export *
+  module * { export * }
+}
